@@ -1,4 +1,3 @@
-console.log(arrowTitle)
 /* START CODE UNDER THIS LINE */
 /*practies*/ 
 //(P1)
@@ -24,5 +23,13 @@ console.log(arrowTitle)
 //"9" - "5"; =4
 //"19" - "13" + 17; = 23
 //5 + 6 + "4" + 9 - 4 - 2;=1143
-//console.log () "mohammad"+"abu obaid"+"male"+"jordan
-// let a=(30*24)*(60*60)
+console.log ( "mohammad"+"abu obaid"+"male"+"jordan")
+let a=(30*24)*(60*60)
+console.log(a)
+// a=29
+const below =(6*0.08*0.10)*2
+console.log(below)
+const avar = (24*5 +16*2+29*3)/10
+console.log(avar)
+const area = 10*5
+const per = 10*2 + 5*2
